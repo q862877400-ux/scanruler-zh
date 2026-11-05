@@ -3862,7 +3862,7 @@
  "The station fitted like {0} folds once solved: {1} — {2}{3}": "像 {0} 那样拟合的站位求解后折叠：{1}——{2}{3}",
  "The step \"{0}\" could not be undone; {1} were.": "步骤“{0}”无法撤销；已撤销 {1} 个。",
  "The step \"{0}\" could not be {1}.": "步骤“{0}”无法{1}。",
- "The strip's span count chosen by the fit: 4, and more only where a patch on it misses the scan by more than the tolerance beyond its noise, while that helps — up to 20": "由拟合选定的条带跨度数：4；仅当其上某面片超出噪声后的容差仍偏离扫描件、且增加确有帮助时才更多——最多20",
+ "The strip's span count chosen by the fit: 4, and more only where a patch on it misses the scan by more than the tolerance beyond its noise, while that helps — up to 20": "由拟合选定的条带跨度数：4；仅当其上某面片超出噪声后的公差仍偏离扫描件、且增加确有帮助时才更多——最多20",
  "The surface fit is singular — the region is too thin for this net.": "曲面拟合奇异 — 该区域对这张网格来说太薄了。",
  "The surface has no noise — a CAD tessellation, not a scan: read its numbers exactly.": "该表面没有噪声——是CAD三角化结果，不是扫描件：可精确读取其数值。",
  "The surface here fits a sphere of Ø {0} mm, too far from the known Ø {1} mm to hold it — check the diameter, or that this is the ball meant.": "此处的表面拟合出的球为 Ø {0} mm，与已知的 Ø {1} mm 相差太远，不能采信 — 请检查直径，或确认这就是要找的那个球。",

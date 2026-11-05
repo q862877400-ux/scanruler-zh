@@ -311,7 +311,7 @@
   "The sketch line this revolve turns about is gone.": "该旋转所绕的草图直线已不存在。",
   "The smallest": "最小的",
   "The start, the end, then a point the arc passes through": "先起点、再终点，然后圆弧经过的一个点",
-  "The strip's span count chosen by the fit: 4, and more only where a patch on it misses the scan by more than the tolerance beyond its noise, while that helps — up to 20": "由拟合选定的条带跨度数：4；仅当其上某面片超出噪声后的容差仍偏离扫描件、且增加确有帮助时才更多——最多20",
+  "The strip's span count chosen by the fit: 4, and more only where a patch on it misses the scan by more than the tolerance beyond its noise, while that helps — up to 20": "由拟合选定的条带跨度数：4；仅当其上某面片超出噪声后的公差仍偏离扫描件、且增加确有帮助时才更多——最多20",
   "The tolerance must be more than zero.": "公差必须大于零。",
   "The tool the marking is for.": "该标记所针对的工具。",
   "The two picked points coincide — pick them further apart.": "所选两点重合——请选得相距更远一些。",
