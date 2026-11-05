@@ -2,5 +2,10 @@
   "Delete marked": "删除标记面",
   "marked": "已标记",
   "Marked": "已标记",
-  "What is marked": "标记的内容"
+  "What is marked": "标记的内容",
+  "More about Far surface must face back": "关于背面须朝向后的更多说明",
+  "More about How thickness is measured": "关于壁厚如何测量的更多说明",
+  "More about Max. deviation of normals": "关于法线最大偏差的更多说明",
+  "More about Max. thickness": "关于最大厚度的更多说明",
+  "More about Rays": "关于射线的更多说明"
 }
