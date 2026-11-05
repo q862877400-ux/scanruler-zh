@@ -1,0 +1,20 @@
+{
+  "A hole through the body along a cylinder or circle element, or a round face of the body": "沿圆柱或圆元素在实体上打孔，或以实体上的圆形面打孔",
+  "A local checkpoint is available.": "有一份本地存档可用。",
+  "A measured plane, cylinder, cone or sphere as a body at its extents, extended as in 3D Measure — a boss or a pin without a sketch — or a shadow section as its block, the outline through the part's thickness": "把量出的平面、圆柱、圆锥或球按其范围做成实体，延伸方式与「3D 测量」一致——不用草图就能做出凸台或销——或把投影剖面做成对应的块体，即贯穿零件厚度方向的轮廓",
+  "A modeled screw thread on a round face of the body — a bolt's on a boss, a nut's in a bore: ISO metric, UNC or UNF, a 45° form that prints without supports, or a diameter and pitch of your own, with an offset for clearance when printing": "在实体的圆形面上生成螺纹——凸台上做螺栓外螺纹，孔里做螺母内螺纹：ISO 公制、UNC 或 UNF，45° 牙型可直接打印不需支撑，也可自定义直径与螺距，并带一个打印用的间隙偏置",
+  "A sketch's pieces — an open chain will do — extruded as a surface: a cutter to split a body with": "把草图的图元——开口的链也可以——拉伸成曲面：用作分割实体的刀具",
+  "A sketch's region swept along a chain of lines and arcs in another sketch — a bent bar, a handle, a rim that follows a curve": "把草图的区域沿另一张草图里的直线与圆弧链扫掠——弯杆、手柄、沿曲线走的边框",
+  "A smooth freeform surface fitted through a region of the scan — click faces or mark them — for the trim to close into a solid with the others": "通过扫描件上的一片区域拟合出光滑自由曲面——点选或标记这些面——以便与其他面一起裁剪成封闭实体",
+  "A solid through the profiles of two or more sketches on their own planes": "在两个或多个各自平面上的草图轮廓之间放样出实体",
+  "Bring a STEP file in as bodies of its own — a bought-in part, a mating part, the CAD model to check the scan against. A body for every solid in the file, named as the file names its parts; Move body puts them where they belong": "把 STEP 文件作为独立实体导入——外购件、配合件、用来校对扫描件的 CAD 模型。文件里每个实体各成一个实体，名称沿用文件里的零件名；用「移动实体」把它们放到该在的位置",
+  "Draw where two bodies run into each other in hatched red — what they share, over the faces of both that would otherwise fight for the same pixels. Off for bodies that overlap on purpose, a modifier volume for a slicer; saved with the project": "用红色斜线画出两个实体互相侵入的部分——它们共有的体积，覆盖在双方原本会争夺同一批像素的面上。对有意重叠的实体（例如给切片软件用的修改体）可以关闭；随项目一起保存",
+  "Hollow the body to a wall — click the faces to open, or none for a closed hollow; the wall comes from the Thickness map when one was measured": "把实体抽壳到给定壁厚——点选要开口的面，不选则为封闭空腔；若已测过壁厚图，壁厚取自该图",
+  "How far the reduced mesh may stray from the scan, either side of it.": "简化后的网格允许偏离扫描件多远，两侧都算。",
+  "It starts sized to the part. Below the scan's own scatter a tighter tolerance buys little: the reduction has to keep the noise, and keeps nearly every triangle to do it.": "初始值按零件尺寸给出。公差低于扫描件自身噪点时收效甚微：简化不得不保留噪点，为此几乎每个三角形都得留下。",
+  "More about Features": "关于特征的更多说明",
+  "More about Parameters": "关于参数的更多说明",
+  "More about Reverse engineering": "关于逆向工程的更多说明",
+  "Offset faces of the body by a distance — a flat face along its normal, a round face in radius; several picked together grow or shrink as a whole, a cylinder's wall and its ends. One face can be snapped onto the scan instead: pick it, take Snap to scan, and click the scan where it should lie": "把实体的面偏置一个距离——平面沿法线、圆面沿半径；同时选中多个面时它们作为整体一起外扩或内缩，例如圆柱的壁与两端。也可以把某个面吸附到扫描件上：选中它，点「吸附到扫描件」，再在扫描件上点它应贴合的位置",
+  "Round edges of the body — click them; the radius is read off the scan across the first": "给实体的边倒圆角——点选这些边；半径按第一处从扫描件上读出"
+}

@@ -1,0 +1,5 @@
+# 构建产物之外的临时件
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

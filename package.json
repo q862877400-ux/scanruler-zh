@@ -1,0 +1,16 @@
+{
+  "name": "scanruler-zh",
+  "version": "0.9.4.1",
+  "private": true,
+  "description": "ScanRuler 简体中文语言包（运行时补丁，不修改上游源码）",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "apply": "node apply.mjs",
+    "test": "node --test tests/"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
